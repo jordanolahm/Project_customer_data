@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1497477171 source:c:\users\aluno\desktop\aps 3 - fundamentos\arquivos.c
+
+1497477320 source:c:\users\aluno\desktop\aps 3 - fundamentos\cliente.c
+
+1497477065 source:c:\users\aluno\desktop\aps 3 - fundamentos\entradassaidapadrao.c
+
+1497477172 source:e:\aps 3 - fundamentos\arquivos.c
+
+1497490670 source:e:\aps 3 - fundamentos\cliente.c
+	"Cliente.h"
+
+1497720488 source:e:\aps 3 - fundamentos\entradassaidapadrao.c
+	"EntradasSaidaPadrao.h"
+
+1497716522 e:\aps 3 - fundamentos\entradassaidapadrao.h
+
+1497722240 source:e:\aps 3 - fundamentos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EntradasSaidaPadrao.h"
+	"Cliente.h"
+
+1497719858 source:e:\aps 3 - fundamentos\data.c
+	"Data.h"
+
+1497490434 e:\aps 3 - fundamentos\data.h
+
+1497490644 e:\aps 3 - fundamentos\cliente.h
+	"Data.h"
+
+1497490670 source:c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\cliente.c
+	"Cliente.h"
+
+1497490644 c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\cliente.h
+	"Data.h"
+
+1497490434 c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\data.h
+
+1497719858 source:c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\data.c
+	"Data.h"
+
+1498274630 source:c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\entradassaidapadrao.c
+	"EntradasSaidaPadrao.h"
+	<stdio.h>
+
+1497716522 c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\entradassaidapadrao.h
+
+1498274623 source:c:\users\arthur ydalgo\desktop\aps 3 - fundamentos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EntradasSaidaPadrao.h"
+	"Cliente.h"
+
+1498349166 source:c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\cliente.c
+	"Cliente.h"
+
+1498347830 c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\cliente.h
+	"Data.h"
+
+1498343167 c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\data.h
+	<stdio.h>
+
+1498349062 source:c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\data.c
+	"Data.h"
+
+1498344952 source:c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\entradassaidapadrao.c
+	"EntradasSaidaPadrao.h"
+
+1498343322 c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\entradassaidapadrao.h
+	<stdio.h>
+
+1498349401 source:c:\users\gabri\desktop\aps-3-fundamentos\aps 3 - fundamentos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"EntradasSaidaPadrao.h"
+	"Cliente.h"
+
